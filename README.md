@@ -3,7 +3,8 @@
 A minimal, secure, and developer-focused pastebin built for sharing code snippets seamlessly. Features automatic expiration, password protection, burn-after-read, syntax highlighting, and zero tracking.
 
 ## UI
-
+<img width="1919" height="997" alt="Screenshot 2026-08-03 003358" src="https://github.com/user-attachments/assets/3910f432-9dd2-45b9-b998-f2787de09b61" />
+<img width="1919" height="993" alt="Screenshot 2026-08-03 003513" src="https://github.com/user-attachments/assets/87636034-23b1-42ad-bd8c-e4776423a95d" />
 
 ## ✨ Features
 
