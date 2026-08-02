@@ -2,6 +2,9 @@
 
 A minimal, secure, and developer-focused pastebin built for sharing code snippets seamlessly. Features automatic expiration, password protection, burn-after-read, syntax highlighting, and zero tracking.
 
+## UI
+
+![UI](./apps/client/public/favicon.svg)
 
 ## ✨ Features
 
