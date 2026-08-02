@@ -4,7 +4,6 @@ A minimal, secure, and developer-focused pastebin built for sharing code snippet
 
 ## UI
 
-![UI](./apps/client/public/favicon.svg)
 
 ## ✨ Features
 
